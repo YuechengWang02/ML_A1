@@ -4,3 +4,5 @@
 
 **STUDENT NUMBER(S):**  
 1266382
+
+### To run the code, go to 'COMP30027_2024_asst1_code.ipynb' and run all cells
