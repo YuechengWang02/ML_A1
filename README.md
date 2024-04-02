@@ -2,7 +2,7 @@
 
 ## Project 1: Wine quality classification with K-NN
 
-**STUDENT NUMBER(S):**  
+**STUDENT NUMBER:**  
 1266382
 
 ### To run the code, go to 'COMP30027_2024_asst1_code.ipynb' and run all cells
